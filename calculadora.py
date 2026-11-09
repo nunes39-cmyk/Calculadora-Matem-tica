@@ -22,7 +22,7 @@ while True:
   else:
     break
 
-if tipocalculo == "divisão" or "/" or "÷":
+if tipocalculo == "divisão" , "/" , "÷":
   if numero1 == 0 and numero2 == 0:
     print("Erro")
   elif numero2 == 0:
